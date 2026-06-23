@@ -1,0 +1,1602 @@
+[
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14178632136",
+    "review_title":"Está volando!",
+    "review_text":"Cada vez más simple y más rápida y con nuevas funcionalidades !",
+    "rating":5,
+    "user_name":{
+      "label":"Jorge Luis Sifuentes"
+    },
+    "review_date":"2026-06-13 17:20:51+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14176319782",
+    "review_title":"Pésimo",
+    "review_text":"No funciona con usuarios nuevos, llevo 3 meses intentando crear mi clave y me aparece que intente más tarde",
+    "rating":1,
+    "user_name":{
+      "label":"Jimeneyra"
+    },
+    "review_date":"2026-06-13 03:23:48+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14162483368",
+    "review_title":"No accede con Face ID",
+    "review_text":"No me deja ingresar con el Face ID",
+    "rating":1,
+    "user_name":{
+      "label":"Greisygs"
+    },
+    "review_date":"2026-06-09 14:51:08+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14156122851",
+    "review_title":"Crashea en iOS 15.8.8",
+    "review_text":"Permite instalar su última versión en iOS 15.8.8 pero apenas se abre, se cierra completamente.",
+    "rating":1,
+    "user_name":{
+      "label":"Dunkelheit 1"
+    },
+    "review_date":"2026-06-07 21:49:09+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14136271188",
+    "review_title":"Muy buena",
+    "review_text":"Excelente!",
+    "rating":5,
+    "user_name":{
+      "label":"MFig17"
+    },
+    "review_date":"2026-06-02 18:51:18+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14131110294",
+    "review_title":"Me encanta",
+    "review_text":"mejoró bastante",
+    "rating":5,
+    "user_name":{
+      "label":"Andreisssssss"
+    },
+    "review_date":"2026-06-01 12:58:15+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14113770205",
+    "review_title":"Funcionalidad",
+    "review_text":"Buenaza! Muy buenas funcionalidades!",
+    "rating":5,
+    "user_name":{
+      "label":"gzp98gzp"
+    },
+    "review_date":"2026-05-28 00:39:03+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14111604968",
+    "review_title":"Se cierra el Ap",
+    "review_text":"Desde hace más de un mes al querer abrirlo y usarlo se cierra inmediatamente y es muy estresante pensaba que con una actualización se solucionaría. Lo uso en un iPhone 12 Pro Max",
+    "rating":1,
+    "user_name":{
+      "label":"Alejandro Luján P."
+    },
+    "review_date":"2026-05-27 12:04:43+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14086799001",
+    "review_title":"Excelente App !!",
+    "review_text":"La actualización está muy buena, tiene una nueva función de Yape\/Plin por voice que es súper práctica",
+    "rating":5,
+    "user_name":{
+      "label":"KCB2058"
+    },
+    "review_date":"2026-05-20 19:44:34+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083545191",
+    "review_title":"Reseña",
+    "review_text":"Súper rápida!!",
+    "rating":5,
+    "user_name":{
+      "label":"Miky Racing"
+    },
+    "review_date":"2026-05-19 22:20:59+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083495258",
+    "review_title":"App mejorada",
+    "review_text":"La nueva app es mucho mas facil en todo procedimiento",
+    "rating":5,
+    "user_name":{
+      "label":"oarias21"
+    },
+    "review_date":"2026-05-19 22:00:12+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083491490",
+    "review_title":"Al fin buenos devs",
+    "review_text":"Gracias por el pago por qr",
+    "rating":5,
+    "user_name":{
+      "label":"Assault10"
+    },
+    "review_date":"2026-05-19 21:58:37+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083361132",
+    "review_title":"Buena app",
+    "review_text":"La app es súper rápida",
+    "rating":5,
+    "user_name":{
+      "label":"Meliza 20"
+    },
+    "review_date":"2026-05-19 21:05:59+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083361007",
+    "review_title":"Buena app",
+    "review_text":"Excelente app",
+    "rating":5,
+    "user_name":{
+      "label":"Susan Dávila"
+    },
+    "review_date":"2026-05-19 21:05:56+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083358639",
+    "review_title":"App Banbif",
+    "review_text":"Buena app la mejor",
+    "rating":5,
+    "user_name":{
+      "label":"Oscar.0999"
+    },
+    "review_date":"2026-05-19 21:04:59+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083334202",
+    "review_title":"Banbif",
+    "review_text":"Muy buena app",
+    "rating":5,
+    "user_name":{
+      "label":"SharonAngeles2003"
+    },
+    "review_date":"2026-05-19 20:55:15+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14083333991",
+    "review_title":"BanBif",
+    "review_text":"Muy buena app",
+    "rating":5,
+    "user_name":{
+      "label":"JJ412430"
+    },
+    "review_date":"2026-05-19 20:55:10+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14060380227",
+    "review_title":"Muy bueno el aplicativo",
+    "review_text":"Muy practico y sencillo",
+    "rating":5,
+    "user_name":{
+      "label":"Rebeee123"
+    },
+    "review_date":"2026-05-13 16:07:08+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14060378230",
+    "review_title":"Excelente app",
+    "review_text":"Me gustó mucho, muy funcional.",
+    "rating":5,
+    "user_name":{
+      "label":"Moni Oceda"
+    },
+    "review_date":"2026-05-13 16:06:28+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14060378015",
+    "review_title":"Mucho mejor",
+    "review_text":"Ampliamente mejorada con respecto a la app anterior",
+    "rating":5,
+    "user_name":{
+      "label":"Franco5697"
+    },
+    "review_date":"2026-05-13 16:06:25+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14060376098",
+    "review_title":"Muy buena",
+    "review_text":"Buenazo",
+    "rating":5,
+    "user_name":{
+      "label":"ShiMiii6754"
+    },
+    "review_date":"2026-05-13 16:05:49+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14060375453",
+    "review_title":"Nueva actualización",
+    "review_text":"Se ve muy bueno todo y ahora permite hacer transferencia con voz",
+    "rating":5,
+    "user_name":{
+      "label":"Ngtr2000"
+    },
+    "review_date":"2026-05-13 16:05:36+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14040360295",
+    "review_title":"Excelente app!",
+    "review_text":"Tiene un diseño inteligente y es muy fácil de usar para nuevos usuarios",
+    "rating":5,
+    "user_name":{
+      "label":"lety wv"
+    },
+    "review_date":"2026-05-08 04:53:29+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14040354516",
+    "review_title":"!!!",
+    "review_text":"Es una app muy útil y efectiva ! Cumple con todas las funciones necesarias para transacciones",
+    "rating":5,
+    "user_name":{
+      "label":"Jasmine RW"
+    },
+    "review_date":"2026-05-08 04:50:30+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14039895944",
+    "review_title":"Excelente app",
+    "review_text":"Al fin pagos QR!!! Muy bien",
+    "rating":5,
+    "user_name":{
+      "label":"AlvaroG0307"
+    },
+    "review_date":"2026-05-08 01:15:59+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14039761297",
+    "review_title":"Que gran app",
+    "review_text":"Con estos mejoras han cambiado radicalmente la aplicación haciéndola más amigable y eficiente",
+    "rating":5,
+    "user_name":{
+      "label":"Erik coronado"
+    },
+    "review_date":"2026-05-08 00:17:59+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14039720398",
+    "review_title":"5⭐️",
+    "review_text":"buena app",
+    "rating":5,
+    "user_name":{
+      "label":"Fiorella2412"
+    },
+    "review_date":"2026-05-08 00:00:24+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14039223443",
+    "review_title":"Excelente experiencia bancaria",
+    "review_text":"La app es muy intuitiva, rápida y segura. Me permite realizar transferencias, pagos y consultar mis cuentas de manera sencilla. La interfaz es moderna y fácil de entender. Hasta ahora he tenido una muy buena experiencia usando la aplicación. 👏",
+    "rating":5,
+    "user_name":{
+      "label":"Fanática Appp"
+    },
+    "review_date":"2026-05-07 20:26:17+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14038840267",
+    "review_title":"Voicebank y qr",
+    "review_text":"Me encanta el voicebank y que ahora puedo pagar QR!!!",
+    "rating":5,
+    "user_name":{
+      "label":"kio198"
+    },
+    "review_date":"2026-05-07 18:00:55+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14033228179",
+    "review_title":"Me encanta",
+    "review_text":"La aplicación ha mejorado mucho, todo es más fácil y rápido",
+    "rating":5,
+    "user_name":{
+      "label":"Dealrg123"
+    },
+    "review_date":"2026-05-06 04:21:52+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010804816",
+    "review_title":"Buena App",
+    "review_text":"Excelente App!!!",
+    "rating":5,
+    "user_name":{
+      "label":"jhhvjbbjjnk"
+    },
+    "review_date":"2026-04-29 23:04:12+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010801923",
+    "review_title":"Buena sin embargo aún tiene puntos de mejora como el pago con QR por el resto súper buena!",
+    "review_text":"Buena sin embargo aún tiene puntos de mejora como el pago con QR por el resto súper buena!",
+    "rating":4,
+    "user_name":{
+      "label":"Wen$$13"
+    },
+    "review_date":"2026-04-29 23:02:58+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010801235",
+    "review_title":"Excelente",
+    "review_text":"Excelente las nuevas funciones",
+    "rating":5,
+    "user_name":{
+      "label":"hvcarla"
+    },
+    "review_date":"2026-04-29 23:02:41+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010797655",
+    "review_title":"Interactiva",
+    "review_text":"Muy intuitiva y fácil de usar",
+    "rating":5,
+    "user_name":{
+      "label":"Gaby9501"
+    },
+    "review_date":"2026-04-29 23:01:05+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010770311",
+    "review_title":"Buena app",
+    "review_text":"Todo bien con la aplicación",
+    "rating":5,
+    "user_name":{
+      "label":"Ronaldx07"
+    },
+    "review_date":"2026-04-29 22:49:03+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010764734",
+    "review_title":"Gran APP",
+    "review_text":"Todo bien. Muy buena APP",
+    "rating":5,
+    "user_name":{
+      "label":"Betoal19"
+    },
+    "review_date":"2026-04-29 22:46:38+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010758634",
+    "review_title":"Fácil de usar",
+    "review_text":"Es tuitiva y tiene toda la información a tu alcance.",
+    "rating":5,
+    "user_name":{
+      "label":"Hugo SM."
+    },
+    "review_date":"2026-04-29 22:43:59+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010612381",
+    "review_title":"Buena App",
+    "review_text":"Excelente app! Sigamos para adelante!",
+    "rating":5,
+    "user_name":{
+      "label":"FabrizioEL"
+    },
+    "review_date":"2026-04-29 21:40:29+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010610376",
+    "review_title":"Me encanta!",
+    "review_text":"Súper intuitiva!",
+    "rating":5,
+    "user_name":{
+      "label":"Tangled.11"
+    },
+    "review_date":"2026-04-29 21:39:38+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010597927",
+    "review_title":"Moderna, tiene todo lo necesario",
+    "review_text":"Excelente",
+    "rating":5,
+    "user_name":{
+      "label":"JuanPablo00007"
+    },
+    "review_date":"2026-04-29 21:34:19+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010593148",
+    "review_title":"Excelente",
+    "review_text":"Muy rapida",
+    "rating":5,
+    "user_name":{
+      "label":"edudeveloper6390"
+    },
+    "review_date":"2026-04-29 21:32:17+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010593060",
+    "review_title":"Excelente UxP",
+    "review_text":"Todo bien con el nuevo estilo y ahora se nota la velocidad de la aplicación",
+    "rating":5,
+    "user_name":{
+      "label":"Alumno2016-1637797"
+    },
+    "review_date":"2026-04-29 21:32:14+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010580206",
+    "review_title":"Banbif genial !",
+    "review_text":"Me gustó mucho la nueva app! Es mucho más fácil de utilizar !",
+    "rating":5,
+    "user_name":{
+      "label":"Jhonatan164"
+    },
+    "review_date":"2026-04-29 21:26:42+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010579760",
+    "review_title":"Excelente aplicación",
+    "review_text":"A comparación de la anterior , esta va muchísimo mejor",
+    "rating":5,
+    "user_name":{
+      "label":"joseGoicochea"
+    },
+    "review_date":"2026-04-29 21:26:31+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14010570178",
+    "review_title":"Comentario",
+    "review_text":"Me funciona muy bien",
+    "rating":5,
+    "user_name":{
+      "label":"Marizavela"
+    },
+    "review_date":"2026-04-29 21:22:27+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14009437316",
+    "review_title":"Presenta Fallas",
+    "review_text":"Últimamente está fallando, es la única app que presentó problemas.",
+    "rating":1,
+    "user_name":{
+      "label":"Nataly Sc"
+    },
+    "review_date":"2026-04-29 14:31:14+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"14009395006",
+    "review_title":"No me funciona",
+    "review_text":"Desde que se está usando el aplicativo no puedo hacer transferencias no se activa me acerco y no hay solucion, me mencionan q es pro ser iPhone",
+    "rating":1,
+    "user_name":{
+      "label":"Ro@ri"
+    },
+    "review_date":"2026-04-29 14:17:29+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13986299791",
+    "review_title":"Buenazo!!!",
+    "review_text":"Todo super Ok !!!",
+    "rating":5,
+    "user_name":{
+      "label":"Meli.GM"
+    },
+    "review_date":"2026-04-22 20:13:50+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13986290968",
+    "review_title":"Buena",
+    "review_text":"Excelente app",
+    "rating":5,
+    "user_name":{
+      "label":"Eri1790"
+    },
+    "review_date":"2026-04-22 20:10:17+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13986289099",
+    "review_title":"Muy buena app",
+    "review_text":"Excelente app",
+    "rating":5,
+    "user_name":{
+      "label":"Rde2411"
+    },
+    "review_date":"2026-04-22 20:09:32+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13986280460",
+    "review_title":"Expectacular",
+    "review_text":"Expectacular",
+    "rating":5,
+    "user_name":{
+      "label":"Anali Victorio"
+    },
+    "review_date":"2026-04-22 20:06:05+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13986265560",
+    "review_title":"App",
+    "review_text":"Mucho más agil para las transacciones",
+    "rating":4,
+    "user_name":{
+      "label":"AF0310"
+    },
+    "review_date":"2026-04-22 20:00:09+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13986252149",
+    "review_title":"Súper Buena Actualización",
+    "review_text":"Esta nueva app es otra cosa! Súper buena, fluida y fácil de usar!",
+    "rating":5,
+    "user_name":{
+      "label":"PatrickThGr8"
+    },
+    "review_date":"2026-04-22 19:54:53+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13969760472",
+    "review_title":"Nuevo app",
+    "review_text":"Me gusta el nuevo app",
+    "rating":5,
+    "user_name":{
+      "label":"Banbif26"
+    },
+    "review_date":"2026-04-18 04:34:17+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13969052807",
+    "review_title":"Mejor que la antigua",
+    "review_text":"La verdad que está mucho mejor que la anterior , se pueden hacer más cosas , y es más dinámica .",
+    "rating":4,
+    "user_name":{
+      "label":"karinha torres \/ like 😃"
+    },
+    "review_date":"2026-04-17 23:35:12+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13957273852",
+    "review_title":"No funciona en iPhone 6S",
+    "review_text":"Al abrir la aplicación se cierra inmediatamente, por lo que no se puede obtener el token digital, y eso vuelve completamente inservible la Banca por Internet Web.",
+    "rating":1,
+    "user_name":{
+      "label":"zorroperu"
+    },
+    "review_date":"2026-04-14 14:50:08+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937893416",
+    "review_title":"Ineteractiva",
+    "review_text":"Muy facil y practica de usar , solo un detalle deberian tener alianzas con otras empresas , para poder hacer pagos desde la aplicacion . pero la app es muy buena y optimizada .",
+    "rating":5,
+    "user_name":{
+      "label":"JluqueH"
+    },
+    "review_date":"2026-04-09 03:14:05+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937095869",
+    "review_title":"Alexis Rivas",
+    "review_text":"Me gusta que el aplicativo se esté actualizando y nos den nuevas novedades",
+    "rating":5,
+    "user_name":{
+      "label":"Marcelo 258"
+    },
+    "review_date":"2026-04-08 21:32:30+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937087719",
+    "review_title":"Buena",
+    "review_text":"Buena",
+    "rating":5,
+    "user_name":{
+      "label":"Michel Cheram"
+    },
+    "review_date":"2026-04-08 21:29:04+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937070724",
+    "review_title":"Buena app",
+    "review_text":"Me facilita las transferencias y ver los productos",
+    "rating":5,
+    "user_name":{
+      "label":"Alenie03"
+    },
+    "review_date":"2026-04-08 21:21:53+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937065399",
+    "review_title":"App",
+    "review_text":"App innovador e intuitivo",
+    "rating":5,
+    "user_name":{
+      "label":"Gigikonecta"
+    },
+    "review_date":"2026-04-08 21:19:44+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937046782",
+    "review_title":"Buen aplicativo",
+    "review_text":"Excelente app",
+    "rating":5,
+    "user_name":{
+      "label":"Juarezfabiana"
+    },
+    "review_date":"2026-04-08 21:12:09+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937046353",
+    "review_title":"Buena app",
+    "review_text":"Buena app, funcionalidad A1",
+    "rating":5,
+    "user_name":{
+      "label":"Brandon Barboza"
+    },
+    "review_date":"2026-04-08 21:11:58+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13937039604",
+    "review_title":"Excelente",
+    "review_text":"Muy eficiente y seguro, en comparación a otros bancos",
+    "rating":5,
+    "user_name":{
+      "label":"Jomarit"
+    },
+    "review_date":"2026-04-08 21:09:05+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13933114768",
+    "review_title":"No ejecuta",
+    "review_text":"App no ejecuta en iPhone 7 Plus 15.8.7 Se cierra automático,",
+    "rating":1,
+    "user_name":{
+      "label":"Jeil016"
+    },
+    "review_date":"2026-04-07 18:37:23+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13911165960",
+    "review_title":"Buen performance",
+    "review_text":"Esta rápida y tiene acceso rápido a tus productos favoritos @giorgioventuraa",
+    "rating":5,
+    "user_name":{
+      "label":"Giorgio Ventura"
+    },
+    "review_date":"2026-04-01 16:08:57+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13910919056",
+    "review_title":"Buenisima!",
+    "review_text":"Se nota bastante la actualización, la interfaz mucho más rápida!",
+    "rating":5,
+    "user_name":{
+      "label":"Ximena Silva"
+    },
+    "review_date":"2026-04-01 14:52:21+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13910842798",
+    "review_title":"App Banbif",
+    "review_text":"Más rapida estable y con funcionalidad voice bank para transferir",
+    "rating":5,
+    "user_name":{
+      "label":"lmontolla"
+    },
+    "review_date":"2026-04-01 14:29:20+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13908643422",
+    "review_title":"App mejorada",
+    "review_text":"Ha mejorado la app con los años, hasta ahora no he tenido incidencias",
+    "rating":5,
+    "user_name":{
+      "label":"M. B. M."
+    },
+    "review_date":"2026-03-31 23:34:16+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13908417595",
+    "review_title":"Buena App",
+    "review_text":"¡Me encanta la App!",
+    "rating":5,
+    "user_name":{
+      "label":"LuciPower"
+    },
+    "review_date":"2026-03-31 22:00:12+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13908294168",
+    "review_title":"Mejor interfaz",
+    "review_text":"Se mejoró la interfaz de bif, se ve mucho mejor y más rápida. Cuenta Instagram @cesar0ficial",
+    "rating":5,
+    "user_name":{
+      "label":"Cesar Flores Gomez"
+    },
+    "review_date":"2026-03-31 21:09:46+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13906005403",
+    "review_title":"Mejora notable",
+    "review_text":"Mi usuario de Instagram @johnesquivelcisneros La nueva app corre muy bien, interfaz atractiva y eficiente.",
+    "rating":5,
+    "user_name":{
+      "label":"John Esquivel Cisneros"
+    },
+    "review_date":"2026-03-31 06:58:50+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905475062",
+    "review_title":"Opinion",
+    "review_text":"El app ha tenido una mejora significativa con respecto a la versión anterior, siento que ahora es más intuitiva y sencilla, sin duda un acierto! Instagram: showmanfdez",
+    "rating":5,
+    "user_name":{
+      "label":"MauriTRC"
+    },
+    "review_date":"2026-03-31 02:28:00+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905272862",
+    "review_title":"Excelente aplicativo",
+    "review_text":"Permite realizar todas las transferencias sin inconvenientes !!",
+    "rating":5,
+    "user_name":{
+      "label":"Janethsua"
+    },
+    "review_date":"2026-03-31 01:00:15+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905137316",
+    "review_title":"Buena app",
+    "review_text":"@adrian.ruiz.29",
+    "rating":5,
+    "user_name":{
+      "label":"Adrian RM 29"
+    },
+    "review_date":"2026-03-31 00:01:49+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905122230",
+    "review_title":"Comentario sobre app",
+    "review_text":"La app es muy llamativa, tiene una interfaz muy juvenil, presenta tiempos de respuesta rápido al clickear y cambiar de pantalla. Fue súper fácil acostumbrase a la app por tener un entorno amigable, 100% recomendado. Usuario de ig: rodrigo.naranjo03",
+    "rating":5,
+    "user_name":{
+      "label":"Rodrigo Naranjo"
+    },
+    "review_date":"2026-03-30 23:55:18+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905077112",
+    "review_title":"Excelente App",
+    "review_text":"Esta nueva app es mucho más completa y didáctica al utilizarla. Como usuario hasta ahora no he tenido ningún problema y he podido realizar todas las operaciones y transacciones que he requerido. Instagram: pattynakama",
+    "rating":5,
+    "user_name":{
+      "label":"Yuriko777"
+    },
+    "review_date":"2026-03-30 23:35:34+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905073427",
+    "review_title":"Excelente app",
+    "review_text":"La nueva app del Banbif es muy útil y fácil de usar, lo recomendaría de todas maneras Mi Instagram: @amely.car",
+    "rating":5,
+    "user_name":{
+      "label":"Amely Carrasco"
+    },
+    "review_date":"2026-03-30 23:33:54+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905062709",
+    "review_title":"Leny Paz",
+    "review_text":"La nueva aplicación es más práctica y me permite usar el Face ID. Cada vez mejor. Instagram: @leny5217",
+    "rating":4,
+    "user_name":{
+      "label":"Lemarpa"
+    },
+    "review_date":"2026-03-30 23:29:07+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905056868",
+    "review_title":"Reseña",
+    "review_text":"La interfaz de la nueva app del Banbif es moderna y amigable. @rcamyi",
+    "rating":5,
+    "user_name":{
+      "label":"rcamyi"
+    },
+    "review_date":"2026-03-30 23:26:35+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905056319",
+    "review_title":"Sorteo banbif",
+    "review_text":"Muy buena aplicación, muy intuitiva y fácil de usar (ig, luiscervantes2409)",
+    "rating":5,
+    "user_name":{
+      "label":"Luiscervantes2409"
+    },
+    "review_date":"2026-03-30 23:26:21+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905051286",
+    "review_title":"Buena app",
+    "review_text":"Me gusta la UI es bastante intuitiva y con las opciones que necesito a la mano (ig: diegocentrico1)",
+    "rating":5,
+    "user_name":{
+      "label":"diegosalas1"
+    },
+    "review_date":"2026-03-30 23:24:10+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905049897",
+    "review_title":"App mejorada",
+    "review_text":"La nueva app facilita el manejo de las transacciones al estar optimizada. Ahora es más rápido. IG carmen.rose4",
+    "rating":4,
+    "user_name":{
+      "label":"210321CR"
+    },
+    "review_date":"2026-03-30 23:23:36+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13905048383",
+    "review_title":"Calificación Nueva Banbif App",
+    "review_text":"Esta nueva App es rápida, atractiva visualmente y con más funcionalidades. Apruebo completamente la nueva App Banbif. 🙌🏻 IG: @mch.nicole",
+    "rating":5,
+    "user_name":{
+      "label":"Nicole Castillo Huerta"
+    },
+    "review_date":"2026-03-30 23:22:57+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13894729764",
+    "review_title":"Super rápida!",
+    "review_text":"Mi usuario instagram es @alessandersk8 La nueva app es super rápida y amigable. Felicitaciones por tan excelente trabajo!",
+    "rating":5,
+    "user_name":{
+      "label":"Alesssanderrr"
+    },
+    "review_date":"2026-03-28 02:42:31+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13894315257",
+    "review_title":"app recomendada!",
+    "review_text":"me gusta mucho el diseño de la nueva app de banbif, se me hace muy práctica de usar. (ig: @brignytufino)",
+    "rating":5,
+    "user_name":{
+      "label":"brigny tufiño"
+    },
+    "review_date":"2026-03-27 23:54:55+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13894010767",
+    "review_title":"Realmente buena",
+    "review_text":"Realmente buena actualización. !! Más dinámica y más ágil @piscosour2609",
+    "rating":5,
+    "user_name":{
+      "label":"neme26"
+    },
+    "review_date":"2026-03-27 21:51:06+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13894005193",
+    "review_title":"Me encanta la nueva app!",
+    "review_text":"La verdad que me gusta el app, siempre me funciona y los colores la hacen ver moderna y diferente, tiene plin y es fácil hacer transferencias 😃 IG @Bblas19",
+    "rating":5,
+    "user_name":{
+      "label":"Bblas19"
+    },
+    "review_date":"2026-03-27 21:48:50+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13894000847",
+    "review_title":"Banbif nueva app",
+    "review_text":"Resulta más práctica pude hacer operaciones que antes debía hacerlas en el banco y es mucho más dinámica! IG @berniehernandez62",
+    "rating":5,
+    "user_name":{
+      "label":"@berniehernandez62"
+    },
+    "review_date":"2026-03-27 21:47:04+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13893998647",
+    "review_title":"anto_mqzd",
+    "review_text":"Muy buena",
+    "rating":5,
+    "user_name":{
+      "label":"Antox_MD"
+    },
+    "review_date":"2026-03-27 21:46:12+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13882338553",
+    "review_title":"Una estupidez de App",
+    "review_text":"Supuestamente es una mejor versión pero ni ingresar puedo. No me deja ni crear mi usuario, les he escrito y encima de lerdos al final me dijeron que tengo que afiliarme llamando a su tonto número. Tan engorroso alto tan fácil. Una estupidez de las más grandes estupideces esta cochinada de app",
+    "rating":1,
+    "user_name":{
+      "label":"stansie95"
+    },
+    "review_date":"2026-03-24 15:42:18+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13879670076",
+    "review_title":"Feedback y mejoras",
+    "review_text":"Buen día, recomiendo implementar la funcionalidad para amortizar a capital créditos como el hipotecario, que es algo que ayudaría a muchas personas, en vez de implementar cosas que no entregan ningún valor como lo último de la voz, además podrían enfocarse primero en bugs de funcionalidades primordiales como ver movimientos.",
+    "rating":1,
+    "user_name":{
+      "label":"Jeryal"
+    },
+    "review_date":"2026-03-23 20:17:21+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13875106070",
+    "review_title":"App",
+    "review_text":"Muchas actualizaciones y demora en acceder a las transacción",
+    "rating":2,
+    "user_name":{
+      "label":"Mvm2724"
+    },
+    "review_date":"2026-03-22 13:38:57+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13868388470",
+    "review_title":"Bcc",
+    "review_text":"La mejor app",
+    "rating":5,
+    "user_name":{
+      "label":"Cxfvh"
+    },
+    "review_date":"2026-03-20 15:44:13+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13866589353",
+    "review_title":"Voice bank",
+    "review_text":"Buena opcion para hacer plin con la voz",
+    "rating":5,
+    "user_name":{
+      "label":"BIFCALL"
+    },
+    "review_date":"2026-03-20 02:47:49+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13861432095",
+    "review_title":"Validación de Tarjeta Inactiva",
+    "review_text":"Luego de la entrega de mi TC Visa Gold, traté de registrarme en la aplicación y me salía el mensaje de Clave ATM Incorrecta, luego de 2 intentos llamé al banco y me indicaron que, se activa luego de 48 horas para poder ingresar al sistema ya que se encuentra inactiva. No tienen esa casuística en el momento de registro y les ayudaría bastante a evitar llamadas al banco por este tipo de temas",
+    "rating":2,
+    "user_name":{
+      "label":"giftme11"
+    },
+    "review_date":"2026-03-18 15:24:47+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13855270652",
+    "review_title":"Buen trabajo",
+    "review_text":"Muy bien estructurado el app a nivel de flujos, pantallas y funcionalidades! Agradecer que hayan agregado un mayor de funcionalidades que solo se podían hacer en la web!",
+    "rating":5,
+    "user_name":{
+      "label":"JuanNelsonYupanqui"
+    },
+    "review_date":"2026-03-16 19:37:47+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13835105754",
+    "review_title":"NO SIRVE LA APP",
+    "review_text":"Cuando abro la APP del banco, inmediatamente e intempestivamente se cierra, ya he reportado el inconveniente pero nadie me atiende ni corrige el problema.",
+    "rating":1,
+    "user_name":{
+      "label":"Abraham Cornejo"
+    },
+    "review_date":"2026-03-10 23:49:22+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13825636654",
+    "review_title":"Todo lo complican",
+    "review_text":"Todo complican, aprendan del BCP",
+    "rating":1,
+    "user_name":{
+      "label":"Luis Finq"
+    },
+    "review_date":"2026-03-08 04:07:35+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  },
+  {
+    "source":"Apple App Store",
+    "app_name":"nueva-banbif-app",
+    "app_id":"6736497481",
+    "review_id":"13820368511",
+    "review_title":"Pésimo",
+    "review_text":"Pésimo, no me permite validad identidad",
+    "rating":1,
+    "user_name":{
+      "label":"Cescai"
+    },
+    "review_date":"2026-03-06 16:53:54+00:00",
+    "developer_response":null,
+    "country":"pe",
+    "extracted_at":"2026-06-16T15:53:55.245689"
+  }
+]
