@@ -1,0 +1,19 @@
+{
+  "name": "impacto-de-marca",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Dashboard y pipeline para medir impacto de hitos de marca con reseñas de apps.",
+  "scripts": {
+    "ingest": "node backend/ingest.js",
+    "scheduler": "node backend/scheduler.js",
+    "validate": "node backend/validate.js",
+    "check": "node --check backend/ingest.js && node --check backend/config.js && node --check backend/scheduler.js && node --check backend/validate.js && node --check prototype/app.js && node --check prototype/data.js",
+    "start": "node backend/scheduler.js"
+  },
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "dotenv": "^16.4.5",
+    "google-play-scraper": "^9.1.1",
+    "node-cron": "^3.0.3"
+  }
+}

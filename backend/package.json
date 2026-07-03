@@ -1,0 +1,19 @@
+{
+  "name": "brandpulse-backend",
+  "version": "1.1.0",
+  "description": "BrandPulse — Motor de ingesta automática de reseñas",
+  "main": "ingest.js",
+  "scripts": {
+    "ingest": "node ingest.js",
+    "scheduler": "node scheduler.js",
+    "validate": "node validate.js",
+    "check": "node --check ingest.js && node --check config.js && node --check scheduler.js && node --check validate.js && node --check ../prototype/app.js && node --check ../prototype/data.js",
+    "start": "node scheduler.js"
+  },
+  "dependencies": {
+    "app-store-scraper": "^0.18.0",
+    "dotenv": "^16.4.5",
+    "google-play-scraper": "^9.1.1",
+    "node-cron": "^3.0.3"
+  }
+}
